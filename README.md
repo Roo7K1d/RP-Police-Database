@@ -18,10 +18,9 @@ $namebase = "police"; // name of the database
 - You're done!
 
 ## Demo
-A demo of this can be found [here](http://police.rootk1d.xyz)
+A demo of this can be found [here](https://rootk1d.xyz/police)
 
 Username: `test@test.com`
-
 Password: `test`
 
 
