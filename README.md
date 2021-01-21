@@ -1,7 +1,8 @@
 # Police
 Portal for logging crimes for your FiveM RP server.
 
-Make sure to check out the [Owner](https://forum.fivem.net/u/davendrix)
+This is my remake of someone elses project.
+Make sure to check out the [Original Owner](https://forum.fivem.net/u/davendrix)
 
 ## Installation Guide
 - Download the ZIP folder
