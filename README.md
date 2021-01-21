@@ -1,5 +1,5 @@
 # Police
-Portal for logging crimes for your FiveM RP server.
+Platform for logging crimes for your FiveM RP server.
 
 This is my remake of someone elses project.
 Make sure to check out the [Original Owner](https://forum.fivem.net/u/davendrix)
