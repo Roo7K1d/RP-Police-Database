@@ -30,8 +30,8 @@ Password: `test`
 - Search by each heading
 - List manhunts
 
-## Feedback
-Feedback is great! If you have a suggestion or request, create an issue! Smilarly, if you have any issues, use the issue tab to let us know.
+## Feedback / Support
+Feedback is great! If you have a suggestion or request, create an issue! Smilarly, if you have any issues, use the issue tab to let us know. If you do need any help with problems please visit the [Discord Server](https://discord.gg/QQaWvMkFbs)
 
 ## Todo
 - Catalog of sanctions#
