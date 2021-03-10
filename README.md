@@ -34,9 +34,12 @@ Password: `test`
 Feedback is great! If you have a suggestion or request, create an issue! Smilarly, if you have any issues, use the issue tab to let us know. If you do need any help with problems please visit the [Discord Server](https://discord.gg/QQaWvMkFbs)
 
 ## Todo
-- Catalog of sanctions#
+- Catalog of sanctions
 - Design home site
 - More actions for manhunts / criminal records (edit, ...)
+- Add Icons
+- Popouts for users
+- Automatically fill out time in forms
 
 ## Contributing
 You can help develop this project by doing some things of the todolist and making a pull request. If you have some even better ideas on how this project can be improved you can also make a pull requrest.
