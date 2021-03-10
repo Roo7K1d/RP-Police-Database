@@ -12,7 +12,7 @@
     <!-- BOOTSTRAP CORE STYLE  -->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FONT AWESOME STYLE  -->
-    <link href="assets/css/font-awesome.css" rel="stylesheet" />
+    <link href="assets/css/all.css" rel="stylesheet" />
     <!-- CUSTOM STYLE  -->
     <link href="assets/css/style.css" rel="stylesheet" />
     <!-- GOOGLE FONT -->
@@ -44,10 +44,10 @@ if (isset($_SESSION['id'])) {
                         </a>
                     </div>
 <div class="right-div">
-    <a href="logout.php" class="btn btn-danger pull-right">Log out</a>
+    <a href="logout.php" class="btn btn-danger pull-right"><i class="fas fa-sign-out-alt"></i> Log out</a>
 </div>
 <div class="right-div">
-                        <a class="btn btn-success pull-right"> User: ' . $_SESSION['pseudo'] . '</a>
+                        <a class="btn btn-success pull-right"><i class="fa fa-user"></i> User: ' . $_SESSION['pseudo'] . '</a>
 </div>
 </div>
 </div>

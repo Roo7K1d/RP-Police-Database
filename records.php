@@ -12,7 +12,7 @@
     <!-- BOOTSTRAP CORE STYLE  -->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FONT AWESOME STYLE  -->
-    <link href="assets/css/font-awesome.css" rel="stylesheet" />
+    <link href="assets/css/all.css" rel="stylesheet" />
     <!-- CUSTOM STYLE  -->
     <link href="assets/css/style.css" rel="stylesheet" />
     <!-- GOOGLE FONT -->
@@ -44,10 +44,10 @@ if (isset($_SESSION['id'])) {
                         </a>
                     </div>
 <div class="right-div">
-    <a href="logout.php" class="btn btn-danger pull-right">Log out</a>
+    <a href="logout.php" class="btn btn-danger pull-right"><i class="fas fa-sign-out-alt"></i> Log out</a>
 </div>
 <div class="right-div">
-                        <a class="btn btn-success pull-right"> User: ' . $_SESSION['pseudo'] . '</a>
+                        <a class="btn btn-success pull-right"><i class="fa fa-user"></i> User: ' . $_SESSION['pseudo'] . '</a>
 </div>
 </div>
 </div>
@@ -94,7 +94,7 @@ if (isset($_SESSION['id'])) {
                         </div>
                     </div>
                     <form method="get" action="add_criminal.php"> 
-                        <input type="submit" class="btn btn-success" value="Add entry">
+                        <button type="submit" class="btn btn-success"><i class="fa fa-plus"></i> Add Entry</button>
                     </form>
                     <br>
                     <div class="row">
@@ -110,6 +110,7 @@ if (isset($_SESSION['id'])) {
                                                     <th>Name</th>
                                                     <th>Crime</th>
                                                     <th>Imposed Sanction</th>
+                                                    <th>Actions</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
@@ -141,7 +142,15 @@ if (isset($_SESSION['id'])) {
 <td class="center">
     <?php
 echo $data['sanction'];
+?></td>
+<form action='delete_entry_records
+.php' method='post'>
+    <?php
+        echo '<td>
+                                                             <button type="submit" name="deleteItem" class="btn btn-danger" value="' . $data['id'] . '"><i class="fa fa-trash"></i> Delete</button>
+                                                     </td>';
 ?>
+</form>
     </form>
     </tr>
     <?php

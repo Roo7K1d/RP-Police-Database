@@ -1,8 +1,7 @@
 # Police
-Platform for logging crimes for your FiveM RP server.
+Portal for logging crimes for your FiveM RP server.
 
-This is my remake of someone elses project.
-Make sure to check out the [Original Owner](https://forum.fivem.net/u/davendrix)
+Make sure to check out the [Owner](https://forum.fivem.net/u/davendrix)
 
 ## Installation Guide
 - Download the ZIP folder
@@ -19,9 +18,10 @@ $namebase = "police"; // name of the database
 - You're done!
 
 ## Demo
-A demo of this can be found [here](https://rootk1d.xyz/police)
+A demo of this can be found [here](http://police.rootk1d.xyz)
 
 Username: `test@test.com`
+
 Password: `test`
 
 
@@ -30,8 +30,8 @@ Password: `test`
 - Search by each heading
 - List manhunts
 
-## Feedback / Support
-Feedback is great! If you have a suggestion or request, create an issue! Smilarly, if you have any issues, use the issue tab to let us know. If you do need any help with problems please visit the [Discord Server](https://discord.gg/QQaWvMkFbs)
+## Feedback
+Feedback is great! If you have a suggestion or request, create an issue! Smilarly, if you have any issues, use the issue tab to let us know.
 
 ## Todo
 - Catalog of sanctions

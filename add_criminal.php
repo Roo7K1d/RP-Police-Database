@@ -12,7 +12,7 @@
     <!-- BOOTSTRAP CORE STYLE  -->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FONT AWESOME STYLE  -->
-    <link href="assets/css/font-awesome.css" rel="stylesheet" />
+    <link href="assets/css/all.css" rel="stylesheet" />
     <!-- CUSTOM STYLE  -->
     <link href="assets/css/style.css" rel="stylesheet" />
     <!-- GOOGLE FONT -->
@@ -34,10 +34,10 @@
                         </a>
                     </div>
 <div class="right-div">
-    <a href="logout.php" class="btn btn-danger pull-right">Log out</a>
+    <a href="logout.php" class="btn btn-danger pull-right"><i class="fas fa-sign-out-alt"></i> Log out</a>
 </div>
 <div class="right-div">
-                        <a class="btn btn-success pull-right"> User: ' . $_SESSION['pseudo'] . '</a>
+                        <a class="btn btn-success pull-right"><i class="fa fa-user"></i> User: ' . $_SESSION['pseudo'] . '</a>
 </div>
 </div>
 </div>
@@ -105,16 +105,16 @@
 								<br />
 							</div>
 							<div class="form-group">
-								<label for="message">Date and Time</label> :
+								<label for="message">Date and Time of Action</label> :
 								<p class="help-block">e.g.: 03.24.2020, 5:50</p>
 								<input type="text" name="datetime" id="datetime" class="form-control" required />
 								<br />
 							</div>
-							<input type="submit" value="Add" class="btn btn-info />
+							<button type="submit" class="btn btn-info"><i class="fa fa-plus"></i> Add</button>
 						</p>
 					</form>
 					<p></p>
-					<img src="https://image.noelshack.com/fichiers/2015/40/1443969486-lspd-logo-modern-2.png" align="center">
+					<img src="" align="center">
 					</div>
 				</div>
 				<!-- CONTENT-WRAPPER SECTION END-->
