@@ -24,6 +24,8 @@ Username: `test@test.com`
 
 Password: `test`
 
+## Support
+For quick support you can join my [Discord](https://discord.gg/QQaWvMkFbs)
 
 ## Features
 - Add and Delete players from a criminal list
