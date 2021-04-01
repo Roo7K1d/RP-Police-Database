@@ -35,6 +35,9 @@ For quick support you can join my [Discord](https://discord.gg/QQaWvMkFbs)
 ## Feedback
 Feedback is great! If you have a suggestion or request, create an issue! Smilarly, if you have any issues, use the issue tab to let us know.
 
+## Copyright
+You are not allowed to remove any part of the footer. That includes all of the info about the copyright. If you wish to remove that info feel free to contact me on my [Discord](https://discord.gg/QQaWvMkFbs)
+
 ## Todo
 - Catalog of sanctions
 - Design home site
