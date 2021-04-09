@@ -1,5 +1,5 @@
 # Police
-Portal for logging crimes for your FiveM RP server.
+Portal for logging crimes for your GTA RP server.
 
 Make sure to check out the [Owner](https://forum.fivem.net/u/davendrix)
 
