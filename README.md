@@ -6,7 +6,7 @@
 <a href="https://github.com/roo7k1d/rp-police-database/pulls"><img src="https://img.shields.io/github/issues-pr/roo7k1d/rp-police-database" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/roo7k1d/rp-police-database/issues"><img src="https://img.shields.io/github/issues/roo7k1d/rp-police-database" alt="Issues Badge"/></a>
 <a href="https://github.com/roo7k1d/rp-police-database/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/roo7k1d/rp-police-database?color=2b9348"></a>
-<a href="https://github.com/roo7k1d/pad-organizer/blob/master/LICENSE"><img src="https://img.shields.io/github/license/roo7k1d/pad-organizer?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/roo7k1d/rp-police-database/blob/master/LICENSE"><img src="https://img.shields.io/github/license/roo7k1d/rp-police-database?color=2b9348" alt="License Badge"/></a>
 <br>
 <a href="https://github.com/roo7k1d/rp-police-database/"><img src="https://img.shields.io/github/repo-size/roo7k1d/rp-police-database?color=important" alt="License Badge"/></a>
 <a href="https://github.com/roo7k1d/rp-police-database/"><img src="https://img.shields.io/tokei/lines/github/roo7k1d/rp-police-database?color=yellowgreen" alt="License Badge"/></a>
