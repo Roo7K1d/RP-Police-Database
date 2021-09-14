@@ -53,7 +53,7 @@ I do not take over any liability for the content that users post on this website
 <hr>
 
 ## Support
-For support you can create an issue [here on GitHub](https://github.com/rootk1d/pad-demo/issues) or you can join my [Discord](https://discord.gg/QQaWvMkFbs).
+For support you can create an issue [here on GitHub](https://github.com/rootk1d/RP-Police-Database/issues) or you can join my [Discord](https://discord.gg/QQaWvMkFbs).
 
 <hr>
 
