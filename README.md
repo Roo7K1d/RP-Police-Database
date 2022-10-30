@@ -41,9 +41,9 @@ $namebase = "police"; // name of the database
 If you want to see the database in live action you can try it out [here](https://rootk1d.xyz/police).
 <br>
 <br>
-Username: `test@test.com`
+Username: `demo@demo.com`
 
-Password: `test`
+Password: `demo`
 <br>
 <br>
 <b>LEGAL NOTICE</b>
