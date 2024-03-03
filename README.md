@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/820416224005586945/886610886377230377/rp-police-database.png">
+<img src="https://rootk1d.xyz/github/police-database/banner.png">
 <p align="center"><i>Portal for logging crimes for your GTA RP server.</i></p>
 <div align="center">
   <a href="https://github.com/roo7k1d/Rp-police-database/stargazers"><img src="https://img.shields.io/github/stars/roo7k1d/rp-police-database?color=yellow" alt="Stars Badge"/></a>
